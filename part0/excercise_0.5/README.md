@@ -1,7 +1,7 @@
 # Exercise 0.5
 
 ## Description
-This exercise involves creating a simple diagram to illustrate the series of HTTP requests and responses when a user writes a note in https://studies.cs.helsinki.fi/exampleapp/spa 
+This exercise involves creating a simple diagram to illustrate the series of HTTP requests and responses when a goes to https://studies.cs.helsinki.fi/exampleapp/spa 
 
 ## Diagram
 ```mermaid
